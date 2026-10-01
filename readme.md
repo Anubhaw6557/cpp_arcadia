@@ -1,4 +1,4 @@
-# 🎮 CPP - Arcadia
+# 🎮 CPP - Arcadia 
 
 A small collection of classic games and visualizations built with **[raylib](https://github.com/raysan5/raylib)**:
 
