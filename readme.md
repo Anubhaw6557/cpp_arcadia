@@ -37,7 +37,7 @@ All four projects share the same toolchain and build together with **CMake** int
 - Clone this Github repository 
 
 ``` bash
-git clone https://github.com/ethereumvd/cpp-arcadia.git
+git clone https://github.com/Anubhaw6557/cpp-arcadia.git
 cd cpp-arcadia
 ```
 
